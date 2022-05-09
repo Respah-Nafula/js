@@ -1,0 +1,19 @@
+.programmer{
+    width:80px;
+    width: 80px;
+    float: left;
+    
+}
+.programmer p{
+    margin-right: 10%;
+    
+
+}.username{
+font-weight: bold;
+margin-top: 45%;
+margin-right: 10%;
+
+}.main{
+    display: flex;
+}
+  
